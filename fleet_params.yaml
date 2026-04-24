@@ -1,0 +1,8 @@
+fleet_monitor:
+  ros__parameters:
+    zones:
+      robot1: 3.0
+      robot2: 3.0
+      robot3: 3.0
+    alert_threshold: 0.5
+    monitor_frequency: 1.0
